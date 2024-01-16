@@ -1,0 +1,20 @@
+#start {
+    height: 60px;
+    width: 120px;
+    border-radius: 50px;
+    background-color: aquamarine;
+    font-size: 30px;
+    
+
+}
+#stop {
+    height:60px;
+    width: 120px;
+    border-radius: 50px;
+    background-color: aquamarine;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    text-shadow: 1px 1px 1px rebeccapurple;
+}
